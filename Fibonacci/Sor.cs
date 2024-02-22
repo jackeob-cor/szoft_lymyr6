@@ -9,7 +9,7 @@ namespace Fibonacci
     internal class Sor
     {
 
-
+        //anyas
         public int Sorszám { get; set; }
         public int Érték { get; set; }
     }
