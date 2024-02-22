@@ -12,5 +12,6 @@ namespace Fibonacci
         //anyas
         public int Sorszám { get; set; }
         public int Érték { get; set; }
+        //masodik komment
     }
 }
