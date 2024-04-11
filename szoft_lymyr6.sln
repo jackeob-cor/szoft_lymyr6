@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fibonacci", "Fibonacci\Fibo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pascal", "Pascal\Pascal.csproj", "{7BAC7402-1371-41AB-B55D-1E39510FADBA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VIllogoGOmb", "VIllogoGOmb\VIllogoGOmb.csproj", "{121367E7-EBBA-418B-B757-05A34A62EFAC}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VIllogoGOmb", "VIllogoGOmb\VIllogoGOmb.csproj", "{121367E7-EBBA-418B-B757-05A34A62EFAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SzamoloGomb", "SzamoloGomb\SzamoloGomb.csproj", "{E3968BF5-3464-4560-B53D-CDE6C22F8CA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SzamoloGomb", "SzamoloGomb\SzamoloGomb.csproj", "{E3968BF5-3464-4560-B53D-CDE6C22F8CA3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hajoskviz", "hajoskviz\hajoskviz.csproj", "{84E3B33B-DD84-4044-BCAF-7F2E95BD104D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "hajoskviz", "hajoskviz\hajoskviz.csproj", "{84E3B33B-DD84-4044-BCAF-7F2E95BD104D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adatkotes", "adatkotes\adatkotes.csproj", "{35CB2DF3-2B21-47AF-A91B-31D93D2FB2D2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{84E3B33B-DD84-4044-BCAF-7F2E95BD104D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{84E3B33B-DD84-4044-BCAF-7F2E95BD104D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{84E3B33B-DD84-4044-BCAF-7F2E95BD104D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{35CB2DF3-2B21-47AF-A91B-31D93D2FB2D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35CB2DF3-2B21-47AF-A91B-31D93D2FB2D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35CB2DF3-2B21-47AF-A91B-31D93D2FB2D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35CB2DF3-2B21-47AF-A91B-31D93D2FB2D2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
